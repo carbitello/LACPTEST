@@ -1,7 +1,7 @@
 {
     "name": "carbitello/lacp",
     "description": "lacp test",
-    "version": "0.1.0.0",
+    "version": "0.1.0.0-stable",
     "license": "GPL",
     "require": {
         "php": ">=5.4.0"
