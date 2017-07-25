@@ -2,7 +2,7 @@
     "name": "LACPTEST",
     "description": "LACPTEST",
     "version": "0.1.0.0",
-    "license": "GNU GPL",
+    "license": "GPL",
     "require": {
         "php": ">=5.4.0"
     },
